@@ -1,0 +1,14 @@
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\bin\Debug\BaiThiCuoiKi.exe
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\bin\Debug\BaiThiCuoiKi.pdb
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.csprojResolveAssemblyReference.cache
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.exe
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.pdb
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.MainForm.resources
+D:\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.csproj.GenerateResource.Cache
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\bin\Debug\BaiThiCuoiKi.exe
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\bin\Debug\BaiThiCuoiKi.pdb
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.csprojResolveAssemblyReference.cache
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.MainForm.resources
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.csproj.GenerateResource.Cache
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.exe
+C:\Users\LQK\Documents\SharpDevelop Projects\NguyenThietTuan-1706020097-11THC\BaiThiCuoiKi\BaiThiCuoiKi\obj\Debug\BaiThiCuoiKi.pdb
